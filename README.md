@@ -50,13 +50,17 @@
 
 <h3 data-importer="text" align="left">Languages</h3>
 
-###
-<p>Cambridge English C2 Proficiency</p>
+<p>Spanish: C2, native</p>
+<p>Catalan: C2, native</p>
+
+<p>English: C2, advanced, Cambridge English C2 Proficiency</p>
 <div  align="left">
   <a href="https://www.cambridgeenglish.org/exams-and-tests/qualifications/proficiency/" target="_blank">
   <img src="https://tse3.mm.bing.net/th/id/OIP.cy9gvG_t05KofL-mQm80MwHaGk?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Cambridge C2 Proficiency" width="40" height="40" />
 </a>
 </div>
+<br/>
+<p>French: A2, elementary, DELF A2</p>
 
 ###
 

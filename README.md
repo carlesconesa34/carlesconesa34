@@ -7,10 +7,8 @@
 ###
 
 <br clear="both">
-
-
-<p data-importer="text" align="left">
-Full Stack Developer specialized in backend development with Java/Spring Boot, with experience integrating microservices architectures with web and mobile interfaces using JavaScript/TypeScript and Angular 17+. Proficient in SQL/PostgreSQL and NoSQL/MongoDB databases, Docker, and Git. Certified in Prompt Engineering and Claude Code, with a strong interest in transitioning into Full Stack AI development. C2 English level.</p>
+  
+<p data-importer="text" align="left">Full Stack Developer specialized in backend development with Java/Spring Boot, with experience integrating microservices architectures with web and mobile interfaces using JavaScript/TypeScript and Angular 17+. Proficient in SQL/PostgreSQL and NoSQL/MongoDB databases, Docker, and Git. Certified in Prompt Engineering and Claude Code, with a strong interest in transitioning into Full Stack AI development. C2 English level.</p>
 
 ###
 

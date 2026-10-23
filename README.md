@@ -1,13 +1,5 @@
-<img data-importer="image" align="left" height="150" src="https://media.licdn.com/dms/image/v2/D4E03AQENC0nUqcybpg/profile-displayphoto-scale_400_400/B4EZ.2yG8SIgAg-/0/1785478017783?e=1794441600&v=beta&t=DMJRf8vcc76eCjvqyD5AsoRrIFRK-38IXk3lvHbDF4Y"  />
-
-###
 
 <h3 data-importer="text" align="left">About Me</h3>
-
-###
-
-<br clear="both">
-<br/>
 
 <p data-importer="text" align="left">  
   Full Stack Developer specialized in backend development with Java/Spring Boot, with experience integrating microservices architectures with web and mobile interfaces using JavaScript/TypeScript and Angular 17+. Proficient in SQL/PostgreSQL and NoSQL/MongoDB databases, Docker, and Git. Certified in Prompt Engineering and Claude Code, with a strong interest in transitioning into Full Stack AI development. C2 English level.</p>

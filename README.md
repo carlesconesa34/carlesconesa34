@@ -6,7 +6,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">Language and tools</h3>
+<h3 data-importer="text" align="left">Stack and tools</h3>
 
 ###
 
@@ -44,6 +44,18 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="left">Languages</h3>
+
+###
+<p>Cambridge English C2 Proficiency</p>
+<div  align="left">
+  <a href="https://www.cambridgeenglish.org/exams-and-tests/qualifications/proficiency/" target="_blank">
+  <img src="https://tse3.mm.bing.net/th/id/OIP.cy9gvG_t05KofL-mQm80MwHaGk?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Cambridge C2 Proficiency" width="40" height="40" />
+</a>
 </div>
 
 ###
